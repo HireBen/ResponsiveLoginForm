@@ -1,2 +1,2 @@
-# ResponsiveLoginForm
-Responsive Login Form for any website.
+# ResponsiveLoginPage
+Responsive Login Page for any website.
